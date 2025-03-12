@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 14bf8771e540fcd429519ad4bb3cad6a, type: 3}
+    - {fileID: 2800000, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+    - {fileID: 2800000, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+    - {fileID: 2800000, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+    - {fileID: 2800000, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+    - {fileID: 2800000, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 14bf8771e540fcd429519ad4bb3cad6a: 1481685659
+    - 14bf8771e540fcd429519ad4bb3cad6a: 1037093385
+    - 14bf8771e540fcd429519ad4bb3cad6a: 1727304224
+    - 14bf8771e540fcd429519ad4bb3cad6a: -659057981
+    - b3fdfec6112147e41963a6e414fe66e9: 113974584
+    - b3fdfec6112147e41963a6e414fe66e9: -2052776674
+    - b3fdfec6112147e41963a6e414fe66e9: 1394162069
+    - b3fdfec6112147e41963a6e414fe66e9: 1523008858
+    - b3fdfec6112147e41963a6e414fe66e9: -2021684634
+    - b3fdfec6112147e41963a6e414fe66e9: 106803927
+    - b3fdfec6112147e41963a6e414fe66e9: 682912678
+    - b3fdfec6112147e41963a6e414fe66e9: 1984795849
+    - b3fdfec6112147e41963a6e414fe66e9: -571580299
+    - bc36bd1c1e091a749965e20a6c69fd07: -1695195056
+    - bc36bd1c1e091a749965e20a6c69fd07: 937119731
+    - bc36bd1c1e091a749965e20a6c69fd07: 2016060765
+    - bc36bd1c1e091a749965e20a6c69fd07: 1774786523
+    - bc36bd1c1e091a749965e20a6c69fd07: -1224744927
+    - bc36bd1c1e091a749965e20a6c69fd07: -1121307729
+    - bc36bd1c1e091a749965e20a6c69fd07: -1042418087
+    - bc36bd1c1e091a749965e20a6c69fd07: 1586370632
+    - bc36bd1c1e091a749965e20a6c69fd07: -1804384689
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: 753438511
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: -1287271235
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: 885893281
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: 1681338478
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: -1978554198
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: -1639093276
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: 678612524
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: 2047886656
+    - 72dc85cd32b2d9748b3fdff4f0c5c21c: -1592982158
+    - 24a01b1edaf5e9846a583ea931013dbf: 796000157
+    - 24a01b1edaf5e9846a583ea931013dbf: -1725612474
+    - 24a01b1edaf5e9846a583ea931013dbf: -589498735
+    - 24a01b1edaf5e9846a583ea931013dbf: 1575196472
+    - 24a01b1edaf5e9846a583ea931013dbf: 142768569
+    - 24a01b1edaf5e9846a583ea931013dbf: 1422006134
+    - 24a01b1edaf5e9846a583ea931013dbf: 940584079
+    - 24a01b1edaf5e9846a583ea931013dbf: 1434219978
+    - 24a01b1edaf5e9846a583ea931013dbf: -1052089901
+    - 90c2a37e69187a34ba3c49426e6fb17e: 263733489
+    - 90c2a37e69187a34ba3c49426e6fb17e: 1979060722
+    - 90c2a37e69187a34ba3c49426e6fb17e: -817399797
+    - 90c2a37e69187a34ba3c49426e6fb17e: -1156143360
+    - 90c2a37e69187a34ba3c49426e6fb17e: 1449422019
+    - 90c2a37e69187a34ba3c49426e6fb17e: 881754997
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1481685659, guid: 14bf8771e540fcd429519ad4bb3cad6a, type: 3}
+  - {fileID: 1037093385, guid: 14bf8771e540fcd429519ad4bb3cad6a, type: 3}
+  - {fileID: 1727304224, guid: 14bf8771e540fcd429519ad4bb3cad6a, type: 3}
+  - {fileID: -659057981, guid: 14bf8771e540fcd429519ad4bb3cad6a, type: 3}
+  - {fileID: 113974584, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: -2052776674, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: 1394162069, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: 1523008858, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: -2021684634, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: 106803927, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: 682912678, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: 1984795849, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: -571580299, guid: b3fdfec6112147e41963a6e414fe66e9, type: 3}
+  - {fileID: -1695195056, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: 937119731, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: 2016060765, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: 1774786523, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: -1224744927, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: -1121307729, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: -1042418087, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: 1586370632, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: -1804384689, guid: bc36bd1c1e091a749965e20a6c69fd07, type: 3}
+  - {fileID: 753438511, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: -1287271235, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: 885893281, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: 1681338478, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: -1978554198, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: -1639093276, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: 678612524, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: 2047886656, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: -1592982158, guid: 72dc85cd32b2d9748b3fdff4f0c5c21c, type: 3}
+  - {fileID: 796000157, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: -1725612474, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: -589498735, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 1575196472, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 142768569, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 1422006134, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 940584079, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 1434219978, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: -1052089901, guid: 24a01b1edaf5e9846a583ea931013dbf, type: 3}
+  - {fileID: 263733489, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  - {fileID: 1979060722, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  - {fileID: -817399797, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  - {fileID: -1156143360, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  - {fileID: 1449422019, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  - {fileID: 881754997, guid: 90c2a37e69187a34ba3c49426e6fb17e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - flowers_0
+  - flowers_1
+  - flowers_2
+  - flowers_3
+  - plowed_field_dark_wheat_8
+  - plowed_field_dark_wheat_7
+  - plowed_field_dark_wheat_6
+  - plowed_field_dark_wheat_5
+  - plowed_field_dark_wheat_4
+  - plowed_field_dark_wheat_3
+  - plowed_field_dark_wheat_2
+  - plowed_field_dark_wheat_1
+  - plowed_field_dark_wheat_0
+  - grass_light-sheet_5
+  - grass_light-sheet_4
+  - grass_light-sheet_7
+  - grass_light-sheet_6
+  - grass_light-sheet_1
+  - grass_light-sheet_0
+  - grass_light-sheet_3
+  - grass_light-sheet_2
+  - grass_light-sheet_8
+  - plowed_field_dark_8
+  - plowed_field_dark_7
+  - plowed_field_dark_6
+  - plowed_field_dark_5
+  - plowed_field_dark_4
+  - plowed_field_dark_3
+  - plowed_field_dark_2
+  - plowed_field_dark_1
+  - plowed_field_dark_0
+  - grass_dark_8
+  - grass_dark_7
+  - grass_dark_6
+  - grass_dark_5
+  - grass_dark_4
+  - grass_dark_3
+  - grass_dark_2
+  - grass_dark_1
+  - grass_dark_0
+  - path_3
+  - path_2
+  - path_1
+  - path_0
+  - path_5
+  - path_4
+  m_RenderDataMap: {}
+  m_Tag: Sprite Atlas
+  m_IsVariant: 0
